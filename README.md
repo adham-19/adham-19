@@ -1,135 +1,282 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Adham%20Mansour&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=00FFFF&animation=fadeIn" width="100%"/>
 
-<h1 align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Adham+Mansour;Computer+Engineer;Embedded+Systems+Developer;Software+Engineer;Hardware+%26+Software+Builder" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,45:1E1B4B,75:0E7490,100:0F172A&text=Adham%20Mansour&fontAlign=50&fontAlignY=40&fontSize=58&fontColor=E0F2FE&animation=fadeIn&desc=Computer%20Engineering%20Student&descAlign=50&descAlignY=62&descSize=18&descColor=BAE6FD" width="100%"/>
 
-</h1>
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student;Full-Stack+Developer;Embedded+%26+Hardware+Enthusiast;AI%2FML+Learner;Building+%7C+Learning+%7C+Exploring" />
+
+<br/>
+
+<p>
+  Exploring <b>Software Engineering</b>, <b>Embedded Systems</b>, and <b>AI/ML</b>
+  <br/>
+  Building projects, experimenting with ideas, and learning by doing. 🚀
+</p>
+
+</div>
+
+---
+
+# 👋 Hey, I'm Adham
+
+I'm a **Computer Engineering student at Cairo University** interested in understanding both the software and hardware sides of computing.
+
+Currently, I'm mainly focusing on **software engineering and full-stack development**, while continuing to explore **embedded systems, low-level programming, hardware design, and AI/ML** as part of my broader learning journey.
+
+I enjoy learning by building things, experimenting with ideas, debugging problems, and going beyond the surface of the tools I use.
+
+> **Learn it. Build it. Understand it. Improve it. 🚀**
+
+---
+
+# 🧭 My Engineering Journey
+
+```text
+                 Computer Engineering
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+        ▼                ▼                ▼
+     Software         Hardware          AI / ML
+        │                │                │
+        ▼                ▼                ▼
+   Full-Stack        Embedded         Machine Learning
+   Development       Systems          Computer Vision
+        │                │                │
+        └────────────────┼────────────────┘
+                         ▼
+                  Keep Exploring 🚀
+````
+
+I'm not trying to put everything into one box.
+
+I'm using my Computer Engineering background to explore how **software, hardware, and intelligent systems** come together.
+
+---
+
+# 🚀 What I'm Up To
+
+### 🏎️ Cairo University Racing Team — CURT
+
+Working as a **Full-Stack Developer** within the **Software Development Committee**.
+
+Gaining hands-on experience in team-based software development, collaboration, problem-solving, and building systems in a real engineering environment.
+
+---
+
+### 💻 Software Engineering
+
+Currently strengthening my understanding of:
+
+**JavaScript • TypeScript • Node.js • Express.js • Angular • React • MongoDB • REST APIs • Authentication • Git & GitHub**
+
+---
+
+### ⚙️ Hardware & Systems
+
+As a Computer Engineering student, I also work on hardware-oriented projects and university coursework involving:
+
+**C • C++ • Assembly • ARM • Verilog • VHDL • Microcontrollers • Digital Design • Computer Architecture**
+
+---
+
+### 🧠 AI / Machine Learning
+
+Building on previous hands-on experience in:
+
+**Python • Machine Learning • Deep Learning • Computer Vision • NLP**
+
+and continuing to explore the field alongside software engineering.
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Software Development
 
 <p align="center">
-Computer Engineering Student • Software Developer • Embedded Systems Enthusiast
+
+<img src="https://skillicons.dev/icons?i=cpp,python,c,js,ts,react,angular,html,css,tailwind,nodejs,express,mongodb,git,github,postman" height="55"/>
+
 </p>
 
 ---
 
-# 🚀 About Me
-
-🎓 Computer Engineering Student  
-💻 Passionate about **Software Engineering and Embedded Systems**  
-⚙️ Strong interest in **Low-Level Programming & Computer Architecture**  
-🔬 Experienced with **Hardware Description Languages and Microcontrollers**  
-🚀 I enjoy building projects that combine **Hardware + Software**
-
----
-
-# 🧠 Tech Stack
+## ⚙️ Hardware & Systems
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,c,js,react,html,css" height="60"/>
+<img src="https://img.shields.io/badge/Assembly-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ARM-0F172A?style=for-the-badge&logo=arm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Verilog-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VHDL-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microcontrollers-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Architecture-0F172A?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# ⚙️ Hardware & Low Level Development
+## 🤖 AI / ML
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Assembly-00FFFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ARM-00FFFF?style=for-the-badge&logo=arm&logoColor=black"/>
-<img src="https://img.shields.io/badge/Verilog-00FFFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VHDL-00FFFF?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+<img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-0F172A?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 </p>
 
 ---
 
-# 🧠 Programming Focus
+# 📂 What You'll Find Here
 
-### C++
-High performance software, algorithms, and system programming.
+This profile is a collection of things I'm **building, learning, and experimenting with**.
 
-### Python
-Automation, scripting, and fast prototyping.
+💻 Full-stack applications
+🔌 Backend APIs & database systems
+🏎️ Team-based engineering projects
+⚙️ Hardware & embedded experiments
+🧠 AI / ML projects
+🧪 Small experiments built to understand concepts
+📚 Coursework implementations and technical practice
 
-### JavaScript / React
-Modern web development and dynamic interfaces.
+Not every repository is meant to be a polished product.
 
-### HTML & CSS
-Responsive and structured web design.
+Some exist simply because I wanted to **understand something better by building it myself**.
 
-### C
-Embedded systems and low-level programming.
+---
 
-### Assembly & ARM
-Microcontroller programming and system optimization.
+# 📚 Learning Journey
 
-### Verilog & VHDL
-Digital hardware design and FPGA architecture.
+## Software
+
+```text
+JavaScript
+   ↓
+Advanced JavaScript
+   ↓
+TypeScript
+   ↓
+Node.js & Express
+   ↓
+MongoDB & Mongoose
+   ↓
+Authentication & APIs
+   ↓
+Angular / Full-Stack Development
+   ↓
+Software Engineering Fundamentals
+```
+
+## Alongside that...
+
+```text
+Computer Architecture
+       +
+Embedded Systems
+       +
+Digital Design
+       +
+AI / Machine Learning
+```
+
+Still learning.
+Still experimenting.
+Still figuring out what comes next.
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adham-19&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=adham-19&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adham-19&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adham-19&layout=compact&theme=tokyonight&hide_border=true" />
 
-</p>
+</div>
 
----
+<br/>
 
-# 🔥 GitHub Streak
+<div align="center">
 
-<p align="center">
+<img src="https://streak-stats.demolab.com?user=adham-19&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=adham-19&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/adham-19/adham-19/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+</div>
 
 ---
 
-# 👀 Visitors
+# 🐍 Contribution Journey
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=adham-19&label=Profile%20Views&color=00ffff&style=for-the-badge"/>
+<img src="https://raw.githubusercontent.com/adham-19/adham-19/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
-</p>
-
----
-
-# ⚡ Current Interests
-
-- Advanced Algorithms  
-- Embedded Systems  
-- Computer Architecture  
-- System Programming  
-- Hardware / Software Integration
+</div>
 
 ---
 
-# 📫 Connect
+# 🧠 How I Learn
 
-<p align="center">
+I don't want to just know **how to use** a technology.
 
-<a href="https://github.com/adham-19">
-<img src="https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=black"/>
+I want to understand:
+
+**Why does it work?**
+**How does it work?**
+**When should I use it?**
+**What happens when it breaks?**
+
+That's why you'll find experiments, bugs, iterations, refactoring, and unfinished ideas throughout my repositories.
+
+They're all part of the process.
+
+---
+
+# 🌱 Building in Public
+
+I'm gradually documenting what I learn — from programming fundamentals and Git to full-stack development, hardware, and AI/ML.
+
+The goal isn't to know everything.
+
+The goal is to **keep getting better.**
+
+---
+
+# 🤝 Let's Connect
+
+I'm always happy to connect with people who enjoy:
+
+**Learning • Building • Collaborating • Sharing Knowledge**
+
+<br/>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/adhammansourabdullatif">
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=67E8F9"/>
 </a>
 
-</p>
+<a href="https://github.com/adham-19">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=67E8F9"/>
+</a>
 
----
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0c29,50:302b63,100:24243e&section=footer"/>
+<br/>
+
+<div align="center">
+
+### Build. Learn. Explore. Improve. 🚀
+
+<sub>Thanks for stopping by!</sub>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F172A,45:1E1B4B,75:0E7490,100:0F172A&section=footer" width="100%"/>
